@@ -19,20 +19,10 @@ const Cart = <FontAwesomeIcon icon={faShoppingCart} />
 const heart = <FontAwesomeIcon icon={faHeart} />
 console.log(Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8, Image9, Image10, Image11)
 
-const Collection = () => {
+const Collection2 = () => {
     return (
-        <div className="Collection">
-            <div className="Bigtext">
-                <h3>BEST SELLER</h3>
-            </div>
-            <div className="collection">
-                <h4 className="active">All</h4>
-                <h4>Bags</h4>
-                <h4>Sunglasses</h4>
-                <h4>Belts</h4>
-                <h4>Sneakers</h4>
-            </div>
-            <div className="productcollection">
+        <div className="Collection2">
+            <div className="productcollection2">
                 <div className="numberOne">
                 <Link to="/Nike Air Max 270 React">
                     <img src={Image2} alt="" />
@@ -56,7 +46,7 @@ const Collection = () => {
                             {heart}{Cart}
                         </div>
                     </div>
-                    </Link>
+                </Link>
                 </div>
                 <div className="numberOne">
                 <Link to="/Nike Air Max 270 React">
@@ -227,11 +217,15 @@ const Collection = () => {
                     </Link>
                 </div>
             </div>
-            <div className="loadmore">
-                <Link to="/">Load More</Link>
+            <div className="sortby sortby-al">
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
             </div>
         </div>
     )
 }
 
-export default Collection
+export default Collection2

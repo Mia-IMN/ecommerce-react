@@ -33,15 +33,15 @@ const Secondsection = () => {
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo rerum, porro quaeraue neque illum ipsam mollitia similiqu.</p>
                 </div>
                 <div className="refund">
-                    <img src={Icon2} alt="" />
+                    <img src={Icon2} alt="" className="Icon1"/>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo rerum, porro quaeraue neque illum ipsam mollitia similiqu.</p>
                 </div>
                 <div className="support">
-                    <img src={Icon3} alt="" />
+                    <img src={Icon3} alt="" className="Icon1"/>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo rerum, porro quaeraue neque illum ipsam mollitia similiqu.</p>
                 </div>
             </div>
-            <div className="latestnews">
+            {/* <div className="latestnews">
                 <h1>LATEST NEWS</h1>
                 <div className="somestuff">
                     <div className="nike">
@@ -69,7 +69,7 @@ const Secondsection = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div className="latestnews">
                 <h1>FEATURED PRODUCTS</h1>
                 <div className="somestuff">

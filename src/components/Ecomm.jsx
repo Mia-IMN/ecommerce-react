@@ -18,7 +18,6 @@ const Ecomm = () => {
             <Collection/>
             <Secondsection />
             <Search/>
-            <Footer/>
         </div>
     )
 }
