@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f602bbdf.chunk.css",
+    "main.js": "/static/js/main.33c9db11.chunk.js",
+    "main.js.map": "/static/js/main.33c9db11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd2f3786.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd2f3786.js.map",
+    "static/js/2.8c1f49e9.chunk.js": "/static/js/2.8c1f49e9.chunk.js",
+    "static/js/2.8c1f49e9.chunk.js.map": "/static/js/2.8c1f49e9.chunk.js.map",
+    "static/js/3.d00ca791.chunk.js": "/static/js/3.d00ca791.chunk.js",
+    "static/js/3.d00ca791.chunk.js.map": "/static/js/3.d00ca791.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f602bbdf.chunk.css.map": "/static/css/main.f602bbdf.chunk.css.map",
+    "static/js/2.8c1f49e9.chunk.js.LICENSE.txt": "/static/js/2.8c1f49e9.chunk.js.LICENSE.txt",
+    "static/media/Imageproduct.d3732f63.jpg": "/static/media/Imageproduct.d3732f63.jpg",
+    "static/media/Product Picture01.9ba2eafa.png": "/static/media/Product Picture01.9ba2eafa.png",
+    "static/media/Product Picture02.7d8a4cf9.png": "/static/media/Product Picture02.7d8a4cf9.png",
+    "static/media/Product Picture03.506e4981.png": "/static/media/Product Picture03.506e4981.png",
+    "static/media/PromotionImage.838cf4da.jpg": "/static/media/PromotionImage.838cf4da.jpg",
+    "static/media/Vector.9f4ad0e3.png": "/static/media/Vector.9f4ad0e3.png",
+    "static/media/image Product (1).bb4ffb72.png": "/static/media/image Product (1).bb4ffb72.png",
+    "static/media/image Product (2).22b7b186.png": "/static/media/image Product (2).22b7b186.png",
+    "static/media/image Product (3).6e05fea4.png": "/static/media/image Product (3).6e05fea4.png",
+    "static/media/image Product.0f954812.png": "/static/media/image Product.0f954812.png",
+    "static/media/imageProduct(1).e949c0a5.png": "/static/media/imageProduct(1).e949c0a5.png",
+    "static/media/imageProduct(2).40705eb8.png": "/static/media/imageProduct(2).40705eb8.png",
+    "static/media/shoey.7e23a85c.png": "/static/media/shoey.7e23a85c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd2f3786.js",
+    "static/js/2.8c1f49e9.chunk.js",
+    "static/css/main.f602bbdf.chunk.css",
+    "static/js/main.33c9db11.chunk.js"
+  ]
+}
